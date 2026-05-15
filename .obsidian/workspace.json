@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "b222fe76cef809e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcc97ac2b753104d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a5d3877b544c1f3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77fac4c75ca8edae",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6c7ad0251b4948b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09fb11a3cd5ee8d3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ac58eb02b5b12ed7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "24bd906f2493ce9a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1f1375f0b07a98d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6206b214bd97c07f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a0753263827c0f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e463ba00fb29deb8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0aa0b33e6c80799d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b65428ff624441c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a81182f948a907ae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0a5d3877b544c1f3",
+  "lastOpenFiles": [
+    "wiki/Multiple Compression Risk.md",
+    "wiki/GQG Investment Philosophy.md",
+    "wiki/Alcohol Industry Structural Decline.md",
+    "wiki/Alphabet — Google Business Model Deterioration.md",
+    "wiki/Dire Straits — Energy Shock and Geopolitical Risk 2026.md",
+    "wiki/GLP-1 Impact on Consumer Industries.md",
+    "wiki/Hyperscaler CapEx Circular Accounting.md",
+    "wiki/Peak Earnings Peak Multiples Peak Expectations.md"
+  ]
+}
