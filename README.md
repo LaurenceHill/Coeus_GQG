@@ -1,2 +1,0 @@
-# Coeus_GQG
-GQG
